@@ -12,7 +12,7 @@ Softwares and Libraries
 4. Start the Mosquitto MQTT Broker in background.
 5. Find the IP address for the connect network by writing the command in the Command Prompt: ipconfig
 6. Add the credentials of IP in the Adafruit_Publisher_Code:
-   mqtt_server "172.20.10.2"
+   mqtt_server "IP_address"
 8. Run the program code
 9. Now open Visual Studio Code Environment and open the mqtt.py file in it.
 10. Install the following libraries:
