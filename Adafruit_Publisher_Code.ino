@@ -13,7 +13,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 #define wifi_ssid "iPhone 15 Pro"
 #define wifi_password "12345qwerty"
-#define mqtt_server "172.20.10.2"
+#define mqtt_server "192.168.161.124"
 
 #define humidity_topic "1"
 #define temperature_celsius_topic "2"
