@@ -7,7 +7,7 @@ mqtt_broker = "192.168.161.124"
 mqtt_port = 1883
 humidity = "1"
 tcelsius = "2"
-tfahrenheit = "sensor/DHT11/temperature_fahrenheit"
+tfahrenheit = "3"
 
 # ThingSpeak Configuration
 thingspeak_channel_id = "2354792"
